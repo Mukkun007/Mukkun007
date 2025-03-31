@@ -1,4 +1,4 @@
-[![Bannière](https://raw.githubusercontent.com/Mukkun007/PORTFOLIO-LOVA/main/public/images/Banner.png)](https://portfolio-lova.vercel.app/))
+[![Bannière](https://raw.githubusercontent.com/Mukkun007/PORTFOLIO-LOVA/main/public/images/Banner.png)](https://portfolio-lova.vercel.app/)
 
 # 👋 Salut, moi c'est Tahiana Lova
 
