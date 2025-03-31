@@ -1,16 +1,17 @@
-## Hi there 👋
+[![Bannière](https://raw.githubusercontent.com/Mukkun007/PORTFOLIO-LOVA/main/public/images/Banner.png)](https://portfolio-lova.vercel.app/))
 
-<!--
-**Mukkun007/Mukkun007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Salut, moi c'est Tahiana Lova
 
-Here are some ideas to get you started:
+💻 **Web Développeur** passionné par la création de solutions innovantes 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 J'aime explorer les nouvelles technologies et travailler en équipe !  
+
+## 🔧 Technologies et outils  
+
+![PHP](https://img.shields.io/badge/PHP-8.1-blue.svg)
+![Symfony](https://img.shields.io/badge/Symfony-6.4-black.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+## 📫 Me contacter  
+📧 Email : [fitahianalova@gmail.com](fitahianalova@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/fitahiana-lova-andrianomenjanahary-676509273/))  
